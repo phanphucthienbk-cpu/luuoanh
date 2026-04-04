@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array/>
+				<key>ServerName</key>
+				<string>67CAFERACER</string>
+				<key>ServerURL</key>
+				<string>https://apple.dns.nextdns.io/eab6bf/fullsevice-sangtao</string>
+			</dict>
+			<key>OnDemandRules</key>
+			<array>
+				<dict>
+					<key>Action</key>
+					<string>Connect</string>
+					<key>InterfaceTypeMatch</key>
+					<string>WiFi</string>
+				</dict>
+				<dict>
+					<key>Action</key>
+					<string>Connect</string>
+					<key>InterfaceTypeMatch</key>
+					<string>Cellular</string>
+				</dict>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>VMSUNLOCK-0868034677</string>
+			<key>PayloadIdentifier</key>
+			<string>io.nextdns.eab6bf.profile.dnsSettings.managed</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.eab6bf.dnsSettings.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>BLOCKFMI - VMSUNLOCKER
+⚠️ Lưu ý: Khi sử dụng BlockFMI
+- Khi khởi động lại iDevice vui lòng tắt Wifi và 4G trước khi khởi động 
+- Khi iDevice lên nguồn chờ 1 phút cho Tool load Chặn rồi hãng bật Wifi và 4G
+- FRP Samsung Oppo Vivo Xiaomi 
+- Bypass- Ẩn -Off Icloud -0868034677
+</string>
+	<key>PayloadDisplayName</key>
+	<string>VMSUNLOCKER-0868034677</string>
+	<key>PayloadIdentifier</key>
+	<string>com.example.systemwide.dns.nextdns</string>
+	<key>PayloadOrganization</key>
+	<string>BLOCK-FMI ☎️0868034677</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E6D2B98F-11F2-46E1-84DB-3AA1DAEDE85B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
