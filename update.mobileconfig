@@ -41,32 +41,33 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>VMSUNLOCK</string>
+			<string>VMS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.fcc9afa7-1455-4d13-ba5c-8ee2ef3a0423</string>
+			<string>com.apple.dnsSettings.managed.e4026e8b-80d0-417b-b013-e9b41a290bf9</string>
 			<key>PayloadOrganization</key>
 			<string>NextDNS</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>fcc9afa7-1455-4d13-ba5c-8ee2ef3a0423</string>
+			<string>e4026e8b-80d0-417b-b013-e9b41a290bf9</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>VMS BLOCKUPDATE
-</string>
+	<string>New Update - Block FMI 
+by VMSUNLOCK
+0868034677</string>
 	<key>PayloadDisplayName</key>
 	<string>VMSUNLOCK-0868034677</string>
 	<key>PayloadIdentifier</key>
-	<string>iMazing-Profile-Editor.1420db00-6c72-4208-ba16-835d11a0b655</string>
+	<string>iMazing-Profile-Editor.9c2b8552-cf9e-4330-aeff-c66fc1fb8639</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>1420db00-6c72-4208-ba16-835d11a0b655</string>
+	<string>9c2b8552-cf9e-4330-aeff-c66fc1fb8639</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
