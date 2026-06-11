@@ -9,8 +9,12 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array/>
+				<key>ServerName</key>
+				<string>Block FMI </string>
 				<key>ServerURL</key>
-				<string>https://apple.dns.nextdns.io/2acda3</string>
+				<string>https://apple.dns.nextdns.io/cfbe54/sagggg</string>
 			</dict>
 			<key>OnDemandRules</key>
 			<array>
@@ -41,34 +45,41 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>VMS</string>
+			<string>VMSUNLOCK  </string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.ab5978a5-1bfe-48f1-9d6f-9613454aee16</string>
+			<string>com.apple.dnsSettings.managed.e8da26a6-4f09-4976-aeb3-919fe9a5e292</string>
 			<key>PayloadOrganization</key>
-			<string>NextDNS</string>
+			<string>Block FMI    </string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>ab5978a5-1bfe-48f1-9d6f-9613454aee16</string>
+			<string>e8da26a6-4f09-4976-aeb3-919fe9a5e292</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>VMSUNLOCK-BLOCK FMI
-Bypass - Ẩn - Chặn Khóa 
-OFF trắng 
-0868034677</string>
+	<string>Các chức năng của phần mềm:
+❤️Chặn cảnh báo tim iPhone/iPad, Chặn định vị, Chặn báo mất máy,Chặn xóa máy, Chặn khóa máy từ xa
+💚Lưu ý: Không sử dụng VPN để tránh xung đột vd: 1.1.1.1
+💚Đây chi là giải pháp chữa cháy, không nên lạm dụng, đủ tiền lh lại chủ phần mềm để mở trắng Icloud
+🍎TẤT Wifi 4G và BẬT chế độ máy bay trước khi tắt nguồn
+🍎Sau khi mở nguồn lại vô được bên trong đợi 2 phút mới bật Wifi 4G
+VMSUNLOCK</string>
 	<key>PayloadDisplayName</key>
-	<string>VMSUNLOCK-BLOCK FMI</string>
+	<string>Block FMI - VMSUNLOCK</string>
 	<key>PayloadIdentifier</key>
-	<string>iMazing-Profile-Editor.079f120e-a02a-4991-9caf-df0b52e173c5</string>
+	<string>iMazing-Profile-Editor.8d238f78-ff2e-4592-a67a-f97fc6d187c5</string>
+	<key>PayloadOrganization</key>
+	<string>Block FMI </string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>079f120e-a02a-4991-9caf-df0b52e173c5</string>
+	<string>8d238f78-ff2e-4592-a67a-f97fc6d187c5</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
