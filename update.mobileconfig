@@ -9,12 +9,8 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-				<key>ServerAddresses</key>
-				<array/>
-				<key>ServerName</key>
-				<string>Tiktok: Kenapple96</string>
 				<key>ServerURL</key>
-				<string>https://apple.dns.nextdns.io/cfbe54/sagggg</string>
+				<string>https://apple.dns.nextdns.io/47c889/TruongTran</string>
 			</dict>
 			<key>OnDemandRules</key>
 			<array>
@@ -45,15 +41,15 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>VMSUNLOCK</string>
+			<string>VMSUNLOCK - ĐT: 0355020300</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.7783372b-3d59-44d5-9d84-c1e8f1918202</string>
+			<string>com.apple.dnsSettings.managed.5bd16da0-1c79-493c-a0ff-6f9f367e13d0</string>
 			<key>PayloadOrganization</key>
-			<string>Trần Xuân Trường - ĐT: 0355020300   </string>
+			<string>Trần Xuân Trường - ĐT: 0355020300</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>7783372b-3d59-44d5-9d84-c1e8f1918202</string>
+			<string>5bd16da0-1c79-493c-a0ff-6f9f367e13d0</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -65,21 +61,17 @@
 💚Đây chi là giải pháp chữa cháy, không nên lạm dụng, đủ tiền lh lại chủ phần mềm để mở trắng Icloud
 🍎TẤT Wifi 4G và BẬT chế độ máy bay trước khi tắt nguồn
 🍎Sau khi mở nguồn lại vô được bên trong đợi 2 phút mới bật Wifi 4G
-</string>
+🍏Hỗ trợ ae thoát ẩn iCloud - off iCloud </string>
 	<key>PayloadDisplayName</key>
-	<string>BLOCK FMI- VMSUNLOCK</string>
+	<string>BlockFMI- VMSUNLOCK</string>
 	<key>PayloadIdentifier</key>
-	<string>iMazing-Profile-Editor.7aa24eed-4c6e-49a1-9a42-f5a42ec56f3d</string>
-	<key>PayloadOrganization</key>
-	<string>0868034677</string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
+	<string>iMazing-Profile-Editor.724d94be-1e38-4481-ac0b-0b54c93d53da</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>7aa24eed-4c6e-49a1-9a42-f5a42ec56f3d</string>
+	<string>724d94be-1e38-4481-ac0b-0b54c93d53da</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
