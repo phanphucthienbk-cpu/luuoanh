@@ -41,15 +41,15 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>VMSUNLOCK - ĐT: 0355020300</string>
+			<string>VMSUNLOCK </string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.5bd16da0-1c79-493c-a0ff-6f9f367e13d0</string>
+			<string>com.apple.dnsSettings.managed.09ea2fc2-f331-4d2d-a8c0-06e3541811d4</string>
 			<key>PayloadOrganization</key>
 			<string>Trần Xuân Trường - ĐT: 0355020300</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>5bd16da0-1c79-493c-a0ff-6f9f367e13d0</string>
+			<string>09ea2fc2-f331-4d2d-a8c0-06e3541811d4</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -65,13 +65,13 @@
 	<key>PayloadDisplayName</key>
 	<string>BlockFMI- VMSUNLOCK</string>
 	<key>PayloadIdentifier</key>
-	<string>iMazing-Profile-Editor.724d94be-1e38-4481-ac0b-0b54c93d53da</string>
+	<string>iMazing-Profile-Editor.67d446e4-b072-4dd6-b223-4b55bd6e4684</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>724d94be-1e38-4481-ac0b-0b54c93d53da</string>
+	<string>67d446e4-b072-4dd6-b223-4b55bd6e4684</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
