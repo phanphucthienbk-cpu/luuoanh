@@ -9,12 +9,8 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-				<key>ServerAddresses</key>
-				<array/>
-				<key>ServerName</key>
-				<string>Block FMI </string>
 				<key>ServerURL</key>
-				<string>https://apple.dns.nextdns.io/cfbe54/sagggg</string>
+				<string>https://apple.dns.nextdns.io/47c889/TruongTran</string>
 			</dict>
 			<key>OnDemandRules</key>
 			<array>
@@ -45,15 +41,15 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>VMSUNLOCK  </string>
+			<string>Hanhtrung</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.0270c22b-0c54-4350-be78-8554758da996</string>
+			<string>com.apple.dnsSettings.managed.51ca84bb-e626-45e7-a656-bb61f4c3f5ac</string>
 			<key>PayloadOrganization</key>
-			<string>Block FMI    </string>
+			<string>Trần Xuân Trường - ĐT: 0355020300</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>0270c22b-0c54-4350-be78-8554758da996</string>
+			<string>51ca84bb-e626-45e7-a656-bb61f4c3f5ac</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -65,21 +61,17 @@
 💚Đây chi là giải pháp chữa cháy, không nên lạm dụng, đủ tiền lh lại chủ phần mềm để mở trắng Icloud
 🍎TẤT Wifi 4G và BẬT chế độ máy bay trước khi tắt nguồn
 🍎Sau khi mở nguồn lại vô được bên trong đợi 2 phút mới bật Wifi 4G
-LH : 0868030090</string>
+🍏Hỗ trợ ae thoát ẩn iCloud - off iCloud </string>
 	<key>PayloadDisplayName</key>
-	<string>HT 0868030090</string>
+	<string>BlockFMI- HanhTrung</string>
 	<key>PayloadIdentifier</key>
-	<string>iMazing-Profile-Editor.d06fd17e-5206-4dfa-a52b-48a356b84502</string>
-	<key>PayloadOrganization</key>
-	<string>Block FMI </string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
+	<string>iMazing-Profile-Editor.411ebce1-3989-4d7e-92d2-cb90985aa0ee</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>d06fd17e-5206-4dfa-a52b-48a356b84502</string>
+	<string>411ebce1-3989-4d7e-92d2-cb90985aa0ee</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
